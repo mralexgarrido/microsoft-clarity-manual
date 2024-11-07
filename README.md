@@ -15,8 +15,11 @@ This manual is freely available under Creative Commons Attribution-ShareAlike 4.
 - Adapt and build upon this material
 - Contribute improvements and suggestions
 
-## Contents
+## Access the Manual
 
+View or download the manual:
+- [View Online](https://mralexgarrido.github.io/microsoft-clarity-manual/Microsoft-Clarity_-A-Comprehensive-Manual-for-Marketing-Professionals.pdf)
+- [Download PDF](https://github.com/mralexgarrido/microsoft-clarity-manual/raw/main/Microsoft-Clarity_-A-Comprehensive-Manual-for-Marketing-Professionals.pdf)
 
 ## How to Contribute
 
